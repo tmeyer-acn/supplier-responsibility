@@ -8,7 +8,7 @@ class AppComponent extends React.Component {
   render() {
     return (
       <div className="index">
-        <div className="notice">Supplier Responsibility</div>
+          <div className="notice">Supplier Responsibility</div>
       </div>
     );
   }

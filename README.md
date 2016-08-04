@@ -1,1 +1,1 @@
-# supplier-responsibility
+# Supplier Responsibility
